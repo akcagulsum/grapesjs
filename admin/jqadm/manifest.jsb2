@@ -1,0 +1,22 @@
+{
+	"projectName": "grapesjs",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "grapesjs CSS",
+		"file": "grapesjs.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "grapesjs JS",
+		"file": "grapesjs.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
